@@ -35,15 +35,9 @@ h6 {
 
 a {
   text-decoration: none;
-  font-size: inherit;
   font-weight: inherit;
   color: inherit;
   line-height: inherit;
-  transition: 0.5s;
-}
-
-a:hover {
-  transition: 0.5s;
 }
 
 p {
